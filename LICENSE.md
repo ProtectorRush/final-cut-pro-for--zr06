@@ -1,4 +1,4 @@
-
+Enhance Final Cut Pro for macOS with updated Final Cut Pro for macOS Effect | chromatic-aberration-fix + echo-removal, the #1 effect. Includes chromatic-aberration-fix and
 
 
 
